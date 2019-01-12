@@ -1,0 +1,11 @@
+<Message>
+	<Header>
+		<Verb> poll </Verb>
+		<Noun> Load</Noun>
+		<id> 1024 </id>	
+     </Header>
+     <Body>
+        		<type> reistive </type>
+        		<value> 2000 </value>
+     </Body>
+</Message>

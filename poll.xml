@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+  <Message>
+    <Header>
+      <Verb>poll</Verb>
+      <Noun>Load</Noun>
+      <id>1024</id>
+    </Header>
+  </Message>
