@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+	<Header>
+		<Verb> update </Verb>
+		<Noun> Load</Noun>
+		<id> 1024 </id>
+	</Header>
+	<Body>
+		<type> reistive </type>
+		<value> 2000 </value>
+	</Body>
+</Message>

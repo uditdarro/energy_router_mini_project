@@ -1,0 +1,9 @@
+<Message>
+    <Header>
+        <Verb> Connect </Verb>
+        <Noun> Master <Noun>
+        <Router_id> MAC address <Router_id>
+    </Header>
+    <Body>
+        <ip>address</ip>
+        <port_no> Converter_no </portno>

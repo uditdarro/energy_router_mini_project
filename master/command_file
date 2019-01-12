@@ -1,0 +1,7 @@
+terminal command for getting subnet mask and ip address:
+ifconfig |grep "inet addr"|awk -F"[ :]+" 'NR==1{print $4 "\n" $8 }'
+Change netbios  name linux
+sudo vim /etc/samba/smb.conf -->samba conf file
+change name in smb.conf
+to get name of device use nbt scan command
+nbtscan <ip>
